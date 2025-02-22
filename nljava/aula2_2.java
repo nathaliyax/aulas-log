@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class aula2_2 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		Scanner sc = new Scanner(System.in);
 		
 		int divisão;
@@ -17,10 +16,7 @@ public class aula2_2 {
 		
 		divisão = num1/num2;
 		System.out.print("a divisão é: " + divisão);
-		sc.close();
-		
-				
-		
+		sc.close();	
 	}
 
 }
